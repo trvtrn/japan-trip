@@ -22,7 +22,12 @@ function App() {
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNzcDRiNTkyc2dub3YzN3l6cmJudXpuNWw0aWVsMG8wY2N2MTZuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/42C7eGLHbijtK/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxbzFqMW5ib3c1a2x0MXNyeGU5MG1ucmRpeHkxb2VzNTMxZmlhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5TVrIZAexcog88a7MH/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZmcmtvbDNidXJidXFxYjZhZTVhZG1hdXdob255MjI2Z2djdXRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q5cEmoRKlOSVq/giphy.gif",
-    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9teG40bDhkcHV3bzl5YmpjOTZkMGF6aWxiaHFuZTBjNzNxaTFhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwh1Nme90Zf0B6E/giphy.gif"
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9teG40bDhkcHV3bzl5YmpjOTZkMGF6aWxiaHFuZTBjNzNxaTFhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwh1Nme90Zf0B6E/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh4NWpkMzA1ZXMxaDkyaG96NWVwMmxia3k4dmxjb3BxYzdwNDM1ZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/OUAHabK7Ey1eMqRdsW/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9kM2JrcDhseGY1NTljeTRnZDJ5NnA3NnlkNDlnNTF1bHNuOHd4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7zldVbcaKTnSE/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpc2V0MXAxZmltOXZyejEzdzVyMG95ZWVseW10MW1uYzU4cGllZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n7dghIPDEXeSI/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w1dm5qdjZ5cGt5MWk5b2NrbjFxZm9yc2N4MHlxeXZ3NXAxYWczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yIxNOXEMpqkqA/giphy.gif",
+    "https://tenor.com/en-GB/view/brooke-one-piece-brooke-spin-brooke-one-piece-brooke-joy-gif-16617681466576271090"
   ];
 
   useEffect(() => {
