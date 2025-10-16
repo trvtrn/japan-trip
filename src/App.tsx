@@ -27,11 +27,11 @@ function App() {
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9kM2JrcDhseGY1NTljeTRnZDJ5NnA3NnlkNDlnNTF1bHNuOHd4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7zldVbcaKTnSE/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpc2V0MXAxZmltOXZyejEzdzVyMG95ZWVseW10MW1uYzU4cGllZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n7dghIPDEXeSI/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w1dm5qdjZ5cGt5MWk5b2NrbjFxZm9yc2N4MHlxeXZ3NXAxYWczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yIxNOXEMpqkqA/giphy.gif",
-    "https://tenor.com/en-GB/view/brooke-one-piece-brooke-spin-brooke-one-piece-brooke-joy-gif-16617681466576271090"
+    "https://tenor.com/en-GB/view/brooke-one-piece-brooke-spin-brooke-one-piece-brooke-joy-gif-16617681466576271090",
   ];
 
   useEffect(() => {
-    const targetDate = new Date("2025-11-01T00:00:00").getTime();
+    const targetDate = new Date("2025-11-01T08:00:00").getTime();
 
     const updateCountdown = () => {
       const now = new Date().getTime();
